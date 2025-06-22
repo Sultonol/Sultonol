@@ -37,7 +37,7 @@
 
 ## 📚 Currently Learning
 
-- 🔭 Framework Laravel & React.js  
+- 🔭 Framework Laravel & Vuejs
 - 🧠 Deepening my OOP and API Integration Skills  
 - 🎨 UI/UX with Tailwind CSS  
 - ☁️ Basic DevOps and Cloud Hosting
