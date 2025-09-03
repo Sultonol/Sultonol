@@ -32,3 +32,53 @@
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="80" height="40"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sultonol&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultonol&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🔭 Framework Laravel & Vuejs
+- 🧠 Deepening my OOP and API Integration Skills  
+- 🎨 UI/UX with Tailwind CSS  
+- ☁️ Basic DevOps and Cloud Hosting
+
+---
+
+## ⚡ Fun Facts
+
+- I love debugging (sometimes 😅)  
+- I enjoy helping friends with coding problems  
+- I drink 🍵 or ☕ while coding to boost creativity  
+- Sometimes, I refactor code just to make it cleaner 🧼
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:sultonolauliyaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sultonol-auliya-11a871348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sultonul_a?igsh=aWp3a2ExcHgzNjV2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+> _"The best error message is the one that never shows up." – Thomas Fuchs_
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile%21;Happy+Coding" alt="Typing SVG" />
+</p>
