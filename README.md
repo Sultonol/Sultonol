@@ -13,7 +13,7 @@
 
 | No | Tanggal | Praktikum ke | Topik | Laporan | Repo |
 |----|----------|--------------|--------|---------|------|
-| 1  | 01/09/2025 | 1 | Pengenalan Mobile Programming | [Laporan](#) | [Repo](#) |
+| 1  | 01/09/2025 | 1 | Pengenalan Mobile Programming dan set up lingkungan | [Laporan](https://docs.google.com/document/d/14Ffs2CYx-4yU72NDx7Nz_lm5C6cqjTehrGG6cGL41Nw/edit?usp=sharing) | [Repo](#) |
 | 2  | 01/09/2025 | 2 | Layout & Widgets | [Laporan](#) | [Repo](#) |
 
 ---
