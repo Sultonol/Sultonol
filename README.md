@@ -18,6 +18,10 @@
 | 3  | 10/09/2025 | 3 | Pengaturan layout Row dan Column | [Laporan](https://docs.google.com/document/d/1cTaCOMLOCqLNRHTqd_rjv3fB2fHSqzGkZLXH2q6QJjw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 | 4  | 10/09/2025 | 4 | Widget Flexible dan Expanded | [Laporan](https://docs.google.com/document/d/1yqmjISqKJFPmhoEr3Z3UwxXZeDkEfRuGh9xmnhNGW9Q/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 
+<p align="center">
+  Reponya Saya jadikan satu dari modul 2 - modul 4 dan seterusnya nanti karena saya jadikan satu folder flutter tiap modul agar tidak memenuhi memori saya tapi tiap modul beda branch jadi untuk modul 3 saya kasih nama branch nya mobile dan untuk modul 4 saya kasih nama modul4 untuk modul seterusnya saya nanti kasih nama sesuai modul
+</p>
+
 ---
 
 ## 🛠 Tech Stack I Use
