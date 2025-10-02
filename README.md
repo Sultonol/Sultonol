@@ -17,10 +17,10 @@
 | 2  | 01/09/2025 | 1 | Widget Row & Column | [Laporan](https://docs.google.com/document/d/1sYh3T4YkUw9Q_sTqSHslfIQs_0vDHDjVWLTakFn2oaI/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 | 3  | 01/09/2025 | 2 | Pengaturan layout Row dan Column | [Laporan](https://docs.google.com/document/d/1cTaCOMLOCqLNRHTqd_rjv3fB2fHSqzGkZLXH2q6QJjw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 | 4  | 10/09/2025 | 2 | Widget Flexible dan Expanded | [Laporan](https://docs.google.com/document/d/1yqmjISqKJFPmhoEr3Z3UwxXZeDkEfRuGh9xmnhNGW9Q/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 5  | 10/09/2025 | 3 | Widget SizeBox, Spacer, dan Card | [Laporan]() | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 6  | 10/09/2025 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Laporan]() | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 7  | 10/09/2025 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan]() | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 8  | 10/09/2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan]() | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 5  | 10/09/2025 | 3 | Widget SizeBox, Spacer, dan Card | [Laporan](https://docs.google.com/document/d/1_5OgPPagt5dFM1804g55bULRSM_sNketMIo346HfcNw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 6  | 10/09/2025 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Laporan](https://docs.google.com/document/d/1LPoqJxEpS2tD7UEft71CVpqam06zP3J_hK24foTbkCg/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 7  | 10/09/2025 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan](https://docs.google.com/document/d/1T7JqeayoEG-w93XQh7rBq4B6TXfEEe0_hR4XR_E0nYk/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 8  | 10/09/2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan](https://docs.google.com/document/d/1iE478RDdJ11bI7ekYmpl8xD_19RUm6E_D9BYAgSRz_c/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 
 <p align="center">
   Reponya Saya jadikan satu dari modul 2 - modul 4 dan seterusnya nanti karena saya jadikan satu folder flutter tiap modul agar tidak memenuhi memori saya tapi tiap modul beda branch jadi untuk modul 3 saya kasih nama branch nya mobile dan untuk modul 4 saya kasih nama modul4 untuk modul seterusnya saya nanti kasih nama sesuai modul
