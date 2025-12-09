@@ -14,18 +14,19 @@
 | No | Tanggal | Praktikum ke | Topik | Laporan | Repo |
 |----|----------|--------------|--------|---------|------|
 | 1  | 01/09/2025 | 1 | Pengenalan Mobile Programming dan set up lingkungan | [Laporan](https://docs.google.com/document/d/14Ffs2CYx-4yU72NDx7Nz_lm5C6cqjTehrGG6cGL41Nw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/Modul1.git) |
-| 2  | 01/09/2025 | 1 | Widget Row & Column | [Laporan](https://docs.google.com/document/d/1sYh3T4YkUw9Q_sTqSHslfIQs_0vDHDjVWLTakFn2oaI/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 3  | 01/09/2025 | 2 | Pengaturan layout Row dan Column | [Laporan](https://docs.google.com/document/d/1cTaCOMLOCqLNRHTqd_rjv3fB2fHSqzGkZLXH2q6QJjw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 4  | 10/09/2025 | 2 | Widget Flexible dan Expanded | [Laporan](https://docs.google.com/document/d/1yqmjISqKJFPmhoEr3Z3UwxXZeDkEfRuGh9xmnhNGW9Q/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 5  | 10/09/2025 | 3 | Widget SizeBox, Spacer, dan Card | [Laporan](https://docs.google.com/document/d/1_5OgPPagt5dFM1804g55bULRSM_sNketMIo346HfcNw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 6  | 10/09/2025 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Laporan](https://docs.google.com/document/d/1LPoqJxEpS2tD7UEft71CVpqam06zP3J_hK24foTbkCg/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 7  | 10/09/2025 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan](https://docs.google.com/document/d/1T7JqeayoEG-w93XQh7rBq4B6TXfEEe0_hR4XR_E0nYk/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 8  | 10/09/2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan](https://docs.google.com/document/d/1iE478RDdJ11bI7ekYmpl8xD_19RUm6E_D9BYAgSRz_c/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 9  | 10/09/2025 | 4 | Stateful Widget | [Laporan](https://docs.google.com/document/d/1GLfRVuOvCpOvrLJJ61HEgmPUhjm34Dt-MzVItniyLB8/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 10  | 10/09/2025 | 4 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan](https://docs.google.com/document/d/1luoTwLhzCdZ-YynGPfGrFGeFE8htrf6Gc_D69LCuccA/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 11  | 10/09/2025 | 4 | Manajemen State dengan GetX | [Laporan](https://docs.google.com/document/d/10Mx64l7ZQ58IzIttdZWIxSz7r5XjXmfUmqTzoEG-ZBc/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 12  | 10/09/2025 | 4 | Akses Lokasi dengan GPS di Flutter | [Laporan](https://docs.google.com/document/d/1ip9x9L5AcoPA1NAjlZNEl5v1FduCgwl36FiEGenKTkQ/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
-| 13  | 10/09/2025 | 4 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan](https://docs.google.com/document/d/1rSa-Jl9hR4xX8o35NkF53R12lVoQf13TTMCozrpTnB0/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 2  | 01/09/2025 | 2 | Widget Row & Column | [Laporan](https://docs.google.com/document/d/1sYh3T4YkUw9Q_sTqSHslfIQs_0vDHDjVWLTakFn2oaI/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 3  | 01/09/2025 | 3 | Pengaturan layout Row dan Column | [Laporan](https://docs.google.com/document/d/1cTaCOMLOCqLNRHTqd_rjv3fB2fHSqzGkZLXH2q6QJjw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 4  | 10/09/2025 | 4 | Widget Flexible dan Expanded | [Laporan](https://docs.google.com/document/d/1yqmjISqKJFPmhoEr3Z3UwxXZeDkEfRuGh9xmnhNGW9Q/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 5  | 10/09/2025 | 5 | Widget SizeBox, Spacer, dan Card | [Laporan](https://docs.google.com/document/d/1_5OgPPagt5dFM1804g55bULRSM_sNketMIo346HfcNw/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 6  | 10/09/2025 | 6 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Laporan](https://docs.google.com/document/d/1LPoqJxEpS2tD7UEft71CVpqam06zP3J_hK24foTbkCg/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 7  | 10/09/2025 | 7 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan](https://docs.google.com/document/d/1T7JqeayoEG-w93XQh7rBq4B6TXfEEe0_hR4XR_E0nYk/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 8  | 10/09/2025 | 8 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan](https://docs.google.com/document/d/1iE478RDdJ11bI7ekYmpl8xD_19RUm6E_D9BYAgSRz_c/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 9  | 10/09/2025 | 9 | Stateful Widget | [Laporan](https://docs.google.com/document/d/1GLfRVuOvCpOvrLJJ61HEgmPUhjm34Dt-MzVItniyLB8/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 10  | 10/09/2025 | 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan](https://docs.google.com/document/d/1luoTwLhzCdZ-YynGPfGrFGeFE8htrf6Gc_D69LCuccA/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 11  | 10/09/2025 | 11 | Manajemen State dengan GetX | [Laporan](https://docs.google.com/document/d/10Mx64l7ZQ58IzIttdZWIxSz7r5XjXmfUmqTzoEG-ZBc/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 12  | 10/09/2025 | 12 | UTS | [Laporan]() | [Repo]() |
+| 13  | 10/09/2025 | 13 | Akses Lokasi dengan GPS di Flutter | [Laporan](https://docs.google.com/document/d/1ip9x9L5AcoPA1NAjlZNEl5v1FduCgwl36FiEGenKTkQ/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 14  | 10/09/2025 | 14 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan](https://docs.google.com/document/d/1rSa-Jl9hR4xX8o35NkF53R12lVoQf13TTMCozrpTnB0/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 
 
 <p align="center">
