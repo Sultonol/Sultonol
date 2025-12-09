@@ -21,6 +21,12 @@
 | 6  | 10/09/2025 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Laporan](https://docs.google.com/document/d/1LPoqJxEpS2tD7UEft71CVpqam06zP3J_hK24foTbkCg/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 | 7  | 10/09/2025 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan](https://docs.google.com/document/d/1T7JqeayoEG-w93XQh7rBq4B6TXfEEe0_hR4XR_E0nYk/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
 | 8  | 10/09/2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan](https://docs.google.com/document/d/1iE478RDdJ11bI7ekYmpl8xD_19RUm6E_D9BYAgSRz_c/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 9  | 10/09/2025 | 4 | Stateful Widget | [Laporan](https://docs.google.com/document/d/1GLfRVuOvCpOvrLJJ61HEgmPUhjm34Dt-MzVItniyLB8/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 10  | 10/09/2025 | 4 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan](https://docs.google.com/document/d/1luoTwLhzCdZ-YynGPfGrFGeFE8htrf6Gc_D69LCuccA/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 11  | 10/09/2025 | 4 | Manajemen State dengan GetX | [Laporan](https://docs.google.com/document/d/10Mx64l7ZQ58IzIttdZWIxSz7r5XjXmfUmqTzoEG-ZBc/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 12  | 10/09/2025 | 4 | Akses Lokasi dengan GPS di Flutter | [Laporan](https://docs.google.com/document/d/1ip9x9L5AcoPA1NAjlZNEl5v1FduCgwl36FiEGenKTkQ/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+| 13  | 10/09/2025 | 4 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan](https://docs.google.com/document/d/1rSa-Jl9hR4xX8o35NkF53R12lVoQf13TTMCozrpTnB0/edit?usp=sharing) | [Repo](https://github.com/Sultonol/modul-2.git) |
+
 
 <p align="center">
   Reponya Saya jadikan satu dari modul 2 - modul 4 dan seterusnya nanti karena saya jadikan satu folder flutter tiap modul agar tidak memenuhi memori saya tapi tiap modul beda branch jadi untuk modul 3 saya kasih nama branch nya mobile dan untuk modul 4 saya kasih nama modul4 untuk modul seterusnya saya nanti kasih nama sesuai modul
